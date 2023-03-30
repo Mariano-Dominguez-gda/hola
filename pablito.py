@@ -1,1 +1,0 @@
-prueba_inversa_1 = "sss"
